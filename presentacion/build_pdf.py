@@ -101,7 +101,9 @@ def build():
                  fontsize=15, color=AZUL)
         fig.text(0.06, 0.30, "Proyecto 2 · Deep Learning 2026 · Universidad del Valle",
                  fontsize=13, color=TENUE)
-        fig.text(0.06, 0.255, "Modalidad parejas", fontsize=13, color=TENUE)
+        fig.text(0.06, 0.255, "Pablo Cabrera (231156)  ·  Luis Palacios (23933)",
+                 fontsize=14, color="#22223b", fontweight="bold")
+        fig.text(0.06, 0.215, "Modalidad parejas", fontsize=12, color=TENUE)
         _img(fig, os.path.join(DATA, "dataset_muestra_8x8.png"),
              [0.60, 0.26, 0.34, 0.48])
         fig.text(0.60, 0.23, "Muestra del dataset (material de entrenamiento)",

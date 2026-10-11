@@ -3,6 +3,8 @@
 
 Deep Learning 2026 — Universidad del Valle. Modalidad parejas.
 
+**Integrantes:** Pablo Cabrera (231156) · Luis Palacios (23933)
+
 Entrenamos una GAN que crea **espíritus guardianes bioluminiscentes** nuevos para
 un videojuego de ambiente nocturno. El objetivo no es solo "generar algo", sino
 producir personajes **nuevos y variados** y demostrarlo con evidencia.
