@@ -1,0 +1,75 @@
+{
+  "extractor": "cnn-squeezenet",
+  "vecinos": [
+    {
+      "personaje": 1,
+      "vecino_cnn_idx": 3545,
+      "dist_cnn": 0.7753481268882751,
+      "vecino_pixel_idx": 1383,
+      "dist_pixel": 9.659723281860352
+    },
+    {
+      "personaje": 2,
+      "vecino_cnn_idx": 2397,
+      "dist_cnn": 0.62839674949646,
+      "vecino_pixel_idx": 1660,
+      "dist_pixel": 9.202354431152344
+    },
+    {
+      "personaje": 3,
+      "vecino_cnn_idx": 4332,
+      "dist_cnn": 0.6701074838638306,
+      "vecino_pixel_idx": 1704,
+      "dist_pixel": 7.462666034698486
+    },
+    {
+      "personaje": 4,
+      "vecino_cnn_idx": 4754,
+      "dist_cnn": 0.6112780570983887,
+      "vecino_pixel_idx": 2346,
+      "dist_pixel": 8.869698524475098
+    },
+    {
+      "personaje": 5,
+      "vecino_cnn_idx": 862,
+      "dist_cnn": 0.6882050633430481,
+      "vecino_pixel_idx": 4917,
+      "dist_pixel": 11.752629280090332
+    },
+    {
+      "personaje": 6,
+      "vecino_cnn_idx": 4497,
+      "dist_cnn": 0.5993990898132324,
+      "vecino_pixel_idx": 2944,
+      "dist_pixel": 10.549473762512207
+    },
+    {
+      "personaje": 7,
+      "vecino_cnn_idx": 1883,
+      "dist_cnn": 0.6366197466850281,
+      "vecino_pixel_idx": 3428,
+      "dist_pixel": 7.94057035446167
+    },
+    {
+      "personaje": 8,
+      "vecino_cnn_idx": 2292,
+      "dist_cnn": 0.681614875793457,
+      "vecino_pixel_idx": 3252,
+      "dist_pixel": 9.43314266204834
+    },
+    {
+      "personaje": 9,
+      "vecino_cnn_idx": 1157,
+      "dist_cnn": 0.6132547855377197,
+      "vecino_pixel_idx": 4689,
+      "dist_pixel": 10.746231079101562
+    },
+    {
+      "personaje": 10,
+      "vecino_cnn_idx": 3925,
+      "dist_cnn": 0.6607348322868347,
+      "vecino_pixel_idx": 4259,
+      "dist_pixel": 8.563505172729492
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "modelo": "base",
+  "muestras_generadas": 200,
+  "personajes_elegidos": 10,
+  "tasa_seleccion": "10 de 200",
+  "criterio": "Se descarto el 40% de muestras mas cercanas a su vecino de entrenamiento (menos novedosas) y entre el resto se eligieron 10 maximizando la diversidad (punto-mas-lejano en el espacio de caracteristicas de la CNN).",
+  "extractor_features": "cnn-squeezenet",
+  "personajes": [
+    {
+      "rank": 1,
+      "nombre": "Ignar",
+      "elemento": "brasa",
+      "rol": "Centinela de forja",
+      "indice_muestra": 100,
+      "gallery_seed": 2026,
+      "archivo": "personaje_01_Ignar.png",
+      "dist_vecino_entrenamiento": 0.7923676371574402
+    },
+    {
+      "rank": 2,
+      "nombre": "Nereo",
+      "elemento": "marea",
+      "rol": "Guardian de mareas",
+      "indice_muestra": 11,
+      "gallery_seed": 2026,
+      "archivo": "personaje_02_Nereo.png",
+      "dist_vecino_entrenamiento": 0.6547665596008301
+    },
+    {
+      "rank": 3,
+      "nombre": "Lumis",
+      "elemento": "solar",
+      "rol": "Portador de luz",
+      "indice_muestra": 90,
+      "gallery_seed": 2026,
+      "archivo": "personaje_03_Lumis.png",
+      "dist_vecino_entrenamiento": 0.7003140449523926
+    },
+    {
+      "rank": 4,
+      "nombre": "Pyra",
+      "elemento": "brasa",
+      "rol": "Centinela de forja",
+      "indice_muestra": 152,
+      "gallery_seed": 2026,
+      "archivo": "personaje_04_Pyra.png",
+      "dist_vecino_entrenamiento": 0.6112780570983887
+    },
+    {
+      "rank": 5,
+      "nombre": "Solenne",
+      "elemento": "solar",
+      "rol": "Portador de luz",
+      "indice_muestra": 79,
+      "gallery_seed": 2026,
+      "archivo": "personaje_05_Solenne.png",
+      "dist_vecino_entrenamiento": 0.6882050633430481
+    },
+    {
+      "rank": 6,
+      "nombre": "Undina",
+      "elemento": "marea",
+      "rol": "Guardian de mareas",
+      "indice_muestra": 40,
+      "gallery_seed": 2026,
+      "archivo": "personaje_06_Undina.png",
+      "dist_vecino_entrenamiento": 0.6110773086547852
+    },
+    {
+      "rank": 7,
+      "nombre": "Marel",
+      "elemento": "marea",
+      "rol": "Guardian de mareas",
+      "indice_muestra": 45,
+      "gallery_seed": 2026,
+      "archivo": "personaje_07_Marel.png",
+      "dist_vecino_entrenamiento": 0.6434967517852783
+    },
+    {
+      "rank": 8,
+      "nombre": "Verdal",
+      "elemento": "musgo",
+      "rol": "Druida de raiz",
+      "indice_muestra": 117,
+      "gallery_seed": 2026,
+      "archivo": "personaje_08_Verdal.png",
+      "dist_vecino_entrenamiento": 0.6902510523796082
+    },
+    {
+      "rank": 9,
+      "nombre": "Umbryx",
+      "elemento": "vacio",
+      "rol": "Acechante umbrio",
+      "indice_muestra": 169,
+      "gallery_seed": 2026,
+      "archivo": "personaje_09_Umbryx.png",
+      "dist_vecino_entrenamiento": 0.6280845403671265
+    },
+    {
+      "rank": 10,
+      "nombre": "Zephyr",
+      "elemento": "cefiro",
+      "rol": "Heraldo del viento",
+      "indice_muestra": 12,
+      "gallery_seed": 2026,
+      "archivo": "personaje_10_Zephyr.png",
+      "dist_vecino_entrenamiento": 0.6607348322868347
+    }
+  ]
+}
