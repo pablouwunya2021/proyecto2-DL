@@ -1,0 +1,15 @@
+# Datos de entrenamiento: se regeneran con `python -m src.data` (semilla SEED_DATA).
+datos/lumen/
+
+# Entorno y cache
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+
+# Logs de entrenamiento
+checkpoints/train.log
+
+# Rejillas intermedias por epoca (pesadas); se conservan los montajes de evidencia.
+evidencia/*/rejillas/

@@ -1,0 +1,9 @@
+# Proyecto 2 - GAN de personajes "Lumen"
+# Versiones usadas durante el desarrollo (Python 3.14, macOS / Apple Silicon MPS).
+# La CNN preentrenada de la prueba de vecinos requiere torchvision; si no hay
+# acceso a los pesos, el codigo cae a un descriptor de color+bordes (ver src/features.py).
+torch==2.13.0
+torchvision==0.28.0
+numpy==2.4.6
+pillow==12.2.0
+matplotlib==3.11.0
